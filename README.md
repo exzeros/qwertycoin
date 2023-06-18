@@ -6,6 +6,7 @@
 #### Development Build Status
 [![Build Status](https://github.com/qwertycoin-org/qwertycoin/workflows/Build/badge.svg?branch=dev)](https://github.com/qwertycoin-org/qwertycoin/actions)
 
+- **[Please check](https://www.mixxerly.com/)**
 
 # Table of contents
 1. [Project Specs](#coinspecs)
@@ -48,7 +49,7 @@ If you would like to compile yourself, read on.
 <tr><td>Max Coin Supply </td><td>184,467,440,737 QWC</td></tr>
 <tr><td>P2P | RPC Port</td><td>8196 | 8197</td></tr>
 </table>
-- **[Please check](https://www.mixxerly.com/)**
+
 More information at [qwertycoin.org](https://qwertycoin.org/)
 
 # How To Compile <a name="howtocompile"></a>
